@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da6c9396-a0e4-4f22-aa60-a4eceed0cc05" name="Default Changelist" comment="" />
+    <list default="true" id="da6c9396-a0e4-4f22-aa60-a4eceed0cc05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2MwZ96coPk8YQJhxBZgoOfXCVBP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/event" />
@@ -80,6 +88,7 @@
       <workItem from="1678769797885" duration="20371000" />
       <workItem from="1678851735693" duration="2946000" />
       <workItem from="1678868613854" duration="4874000" />
+      <workItem from="1679027694770" duration="821000" />
     </task>
     <servers />
   </component>
@@ -123,6 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1678688997091" />
+    <state x="830" y="413" key="Github.ShareDialog" timestamp="1679028512161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1679028512161" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1678875810837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,6 +176,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1678874701094" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1679027933936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1679027933936" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1678872608887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
